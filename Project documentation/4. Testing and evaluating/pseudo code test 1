@@ -1,0 +1,4 @@
+BEGIN teo()
+  INPUT name
+  PRINT name
+END
