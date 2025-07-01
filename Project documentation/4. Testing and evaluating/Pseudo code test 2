@@ -1,0 +1,9 @@
+BEGIN counter()
+  INPUT start_num
+  INPUT end_num
+  i = start_num
+  WHILE i <= end_num
+    PRINT i
+    i = i + 1
+  END WHILE
+END
