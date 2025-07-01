@@ -1,0 +1,8 @@
+BEGIN counter()
+  INPUT start_num
+  INPUT end_num
+  i = start_num
+  FOR i = start_num to end_num
+    PRINT i
+  NEXT i
+END
